@@ -1,0 +1,30 @@
+States.Input.txt Master File Description
+
+Each state record in the States.Input.txt file can be 
+stored in either a fixed-length or comma-separated format.
+The easiest way to test which format a state record is
+stored in is to use the String.contains(",") method,
+which is available in the Java language.
+
+----------------------------------------------------------
+
+Fixed-length record example:
+
+State	Capital		Abbr	Population	Region	Region #
+0-14	15-29		30-31	32-39		40-54	55
+
+Example:
+
+00000000001111111111222222222233333333334444444444555555
+01234567890123456789012345678901234567890123456789012345
+Texas          Austin         TX19759614Southwest      5
+
+----------------------------------------------------------
+
+Comma-separated record example:
+
+State,Capital,Abbr,Population,Region,Region #
+
+Example:
+
+Texas,Austin,TX,19759614,Southwest,5

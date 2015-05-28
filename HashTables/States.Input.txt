@@ -1,0 +1,50 @@
+Oklahoma,Oklahoma_City,OK,4762379,Southwest,5
+Delaware       Dover          DE  743603Middle_Atlantic2
+Hawaii,Honolulu,HI,9675640,West,6
+Louisiana,Baton_Rouge,LA,6170884,South,3
+Indiana        Indianapolis   IN 5899195Midwest        4
+Maryland       Annapolis      MD 5134808Middle_Atlantic2
+West_Virginia,Charleston,WV,4278916,Middle_Atlantic,2
+Arizona,Phoenix,AZ,5884015,Southwest,5
+Texas          Austin         TX19759614Southwest      5
+Nebraska,Lincoln,NE,9987615,Midwest,4
+Idaho,Boise,ID,5207968,West,6
+North_Carolina,Raleigh,NC,8133055,South,3
+Pennsylvania   Harrisburg     PA12001451Middle_Atlantic2
+Mississippi,Jackson,MS,6188072,South,3
+Montana        Helena         MT  880453West           6
+Maine          Augusta        ME 1244250New_England    1
+California,Sacramento,CA,4630270,West,6
+Utah           Salt_Lake_City UT 2099758West           6
+Ohio,Columbus,OH,10867339,Midwest,4
+Alaska         Juno           AK  614010West           6
+North_Dakota   Bismark        ND  638244Midwest        4
+Connecticut    Hartford       CT 3274069New_England    1
+Washington,Olympia,WA,6413197,West,6
+Florida,Tallahassee,FL,8675993,South,3
+Kansas         Topeka         KS 2629067Midwest        4
+Alabama        Montgomery     AL 4351999South          3
+New_Hampshire,Concord,NH,2405549,New_England,1
+Colorado,Denver,CO,6505491,West,6
+New_Jersey,Trenton,NJ,9058458,Middle_Atlantic,2
+Missouri       Jefferson_City MO 5438559Midwest        4
+Kentucky,Frankfort,KY,6236300,South,3
+Virginia       Richmond       VA 6791345Middle_Atlantic2
+South_Carolina Columbia       SC 3835962South          3
+Tennessee,Nashville,TN,4267190,South,3
+South_Dakota,Pierre,SD,4089264,Midwest,4
+Nevada         Carson_City    NV 1746898West           6
+Michigan       Lansing        MI 9817242Midwest        4
+Arkansas       Little_Rock    AR 2538303South          3
+New_Mexico     Santa_Fe       NM 1736931Southwest      5
+Wyoming        Cheyenne       WY  480907West           6
+Oregon         Salem          OR 3281974West           6
+Wisconsin      Madison        WI 5223500Midwest        4
+Vermont,Montpelier,VT,6057556,New_England,1
+New_York       Albany         NY18146200Middle_Atlantic2
+Rhode_Island,Providence,RI,2804070,New_England,1
+Massachusetts,Boston,MA,6614581,New_England,1
+Georgia        Atlanta        GA 7642207South          3
+Illinois       Springfield    IL12045326Midwest        4
+Iowa,Des_Moines,IA,2647301,Midwest,4
+Minnesota,St_Paul,MN,2303933,Midwest,4
